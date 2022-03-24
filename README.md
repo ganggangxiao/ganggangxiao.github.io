@@ -8,5 +8,5 @@ This is the blog for Gang Callum
 ## More   
 Please choose your language:  
 
-[Simplified Chinese/简体中文](ganggangxiao.github.io/cn/index.html)  
-[English/英语](ganggangxiao.github.io/en/index.html)  
+[Simplified Chinese/简体中文](https://ganggangxiao.github.io/cn/)  
+[English/英语](https://ganggangxiao.github.io/en/)  
