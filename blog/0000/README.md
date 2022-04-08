@@ -7,7 +7,8 @@
 [文章](https://ganggangxiao.github.io/list/)
 [关于](https://ganggangxiao.github.io/about/)
 [GitHub](https://github.com/ganggangxiao/)
-[我的托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)  
+[我的托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)
+[评论](https://github.com/ganggangxiao/ganggangxiao.github.io/issues)  
 创建时间 2022 04 07 | 修改时间 2022 04 07
 
 # **0000 - 模板**

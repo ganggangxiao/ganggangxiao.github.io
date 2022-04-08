@@ -2,7 +2,8 @@
 [文章](https://ganggangxiao.github.io/list/)
 [关于](https://ganggangxiao.github.io/about/)
 [我的GitHub](https://github.com/ganggangxiao/)
-[本网站托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)  
+[本网站托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)
+[评论](https://github.com/ganggangxiao/ganggangxiao.github.io/issues)  
 创建时间 2022 04 07 | 修改时间 2022 04 07
 # **文章列表和公告**
 ## 文章列表
@@ -12,6 +13,7 @@
 [0004 - C++学习 01 - const和指针](https://ganggangxiao.github.io/blog/0004)  
 ## 公告
 有错别字、有错误提Issue
+评论提Issue
 禁止转载，转载免谈。
 
 ## **以上 - The End.**
