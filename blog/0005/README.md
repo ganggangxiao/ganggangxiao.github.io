@@ -4,7 +4,7 @@
 [GitHub](https://github.com/ganggangxiao/)
 [我的托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)
 [评论](https://github.com/ganggangxiao/ganggangxiao.github.io/issues)  
-创建时间 2022 04 08 | 修改时间 2022 04 08
+创建时间 2022 04 08 | 修改时间 2022 04 30
 
 # **0005 - 对副词的一点感悟**
 
@@ -48,5 +48,7 @@
     地：结构是副词+地+动词。
 
 我发现这位答主的说法比我的更严谨，更易懂，更鲜明（我对自己说：学着点！）这也就是我上文提到的什么前置后置的关系，感谢您能看到最后。
+
+我只是个小白，我的理解不够透彻，表达不够严谨，如果文章中有错误，可以在本网页的托管地址提issue
 
 ## **以上 - The End.**

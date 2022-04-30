@@ -6,7 +6,5 @@
 [评论](https://github.com/ganggangxiao/ganggangxiao.github.io/issues)  
 创建时间 2022 04 30 | 修改时间 2022 04 30
 
-[关于我](https://ganggangxiao.github.io/about/Me)
-[我与IT](https://ganggangxiao.github.io/about/IT)
-[Q&A](https://ganggangxiao.github.io/about/Q&A)
-[转载须知](https://ganggangxiao.github.io/about/UseIt)
+# 我与博奥
+敬请期待...

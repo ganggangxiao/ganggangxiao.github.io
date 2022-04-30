@@ -8,7 +8,7 @@
 
 # **0003 - html插入图片**
 <p>这篇文章主要记录如何在html中插入图片，本网页所有的照片都在image文件夹下，
-诸位可以更改网址地址查看，ok，lets begin！</p><br />
+诸位可以更改网址地址查看，ok，lets begin！</p>
 <p>其实插入照片挺简单的，调用img标签就行了，像这样：</p>
 <img src="image/Callum.png" width="512px" height="512px" alt="Callum徽标"><br>
 <p>插入代码自行查看网页源码，src后面的引号填的是路径，可以是本网页的相对路径，也可以是在线或本地的绝对路径，比如我放一个百度的图标

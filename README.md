@@ -5,8 +5,7 @@
 [本网站托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)
 [评论](https://github.com/ganggangxiao/ganggangxiao.github.io/issues)  
 # Welcome !
-## ganggangxiao.github.io
 欢迎来到我的博客  
-[请点此进入文章列表](https://ganggangxiao.github.io/list/)  
+[文章列表](https://ganggangxiao.github.io/list/)  
 [关于](https://ganggangxiao.github.io/about/)  
 [评论](https://github.com/ganggangxiao/ganggangxiao.github.io/issues)  

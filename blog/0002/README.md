@@ -1,6 +1,3 @@
----
-title: "0002 - 德语学习 - 01 - 字母本身的名称"
----
 [主页](https://ganggangxiao.github.io/)
 [文章](https://ganggangxiao.github.io/list/)
 [关于](https://ganggangxiao.github.io/about/)
