@@ -1,8 +1,11 @@
 [^_^]:这是一段注释。
 
-[^_^]:前一段时间我一直用纯html写文章，但是html太难用了我才发现，不只是主页，所有的网页都能用README.md作为一个index，所以我就把所有的文章用Markdown再写一次，前端füçk-yöü!
+[^_^]:前一段时间我一直用纯html写文章，但是html太难用了，直到前段时间我才发现，不只是主页，所有的网页都能用README.md作为一个index，所以我就把所有的文章用Markdown再写一次，前端füçk-yöü!
 
 [^_^]:如果您想查看在此之前的博文的旧的index，我告诉你，没门！
+---
+title: "0000 - 模板"
+---
 [主页](https://ganggangxiao.github.io/)
 [文章](https://ganggangxiao.github.io/list/)
 [关于](https://ganggangxiao.github.io/about/)
