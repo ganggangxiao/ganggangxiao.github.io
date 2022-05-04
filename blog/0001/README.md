@@ -21,11 +21,11 @@
 
 这个vimrc是vim编辑器的配置文件，vim是一个轻量的代码文本编辑器，开源软件，有好多个年头了，是最主流的编辑器之一，我们就可以通过vimrc来配置vim
 
-我的vimrc很简单，源码我放在了github主页上，仓库名就叫vimrc，提供里Linux和Windows的版本，其中Windows版本实时跟进我本机的更新，Mac不提供，用Mac的给爷爬。我再贴一个[传送门](https://github.com/ganggangxiao/vimrc)
+我的vimrc很简单，源码我放在了github主页上，仓库名就叫vimrc，提供里Linux和Windows的版本，其中Windows版本实时跟进我本机的更新，Mac不提供，用Mac的给爷爬（呃我收回这句话），好吧，Mac我也没用过（我是井底之蛙），配置起来应该跟Linux差不多（大雾），所以就不贴了哈（逃）。我再贴一个[传送门](https://github.com/ganggangxiao/vimrc)
 
-就先这么多吧,enjoy!
+就先这么多吧，enjoy!
 
-thanks everyone!
+Thanks everyone!
 
 
 
