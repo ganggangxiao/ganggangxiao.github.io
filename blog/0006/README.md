@@ -31,7 +31,12 @@
 ![18](img/18.jpg "img18")
 ![19](img/19.jpg "img19")
 ![20](img/20.jpg "img20")
-
+![21](img/21.jpg "img21")
+![22](img/22.jpg "img22")
+![23](img/23.jpg "img23")
+![24](img/24.jpg "img24")
+![25](img/25.jpg "img25")
+![26](img/26.jpg "img26")
 还有个视频等我以后再想办法传上来吧，GitHub不支持这么大的文件
 
 ## **以上 - The End.**
