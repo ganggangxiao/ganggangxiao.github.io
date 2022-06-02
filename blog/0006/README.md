@@ -1,10 +1,9 @@
 [主页](https://ganggangxiao.github.io/)
 [文章](https://ganggangxiao.github.io/list/)
 [关于](https://ganggangxiao.github.io/about/)
-[GitHub](https://github.com/ganggangxiao/)
-[我的托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)
+[托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)
 [评论](https://github.com/ganggangxiao/ganggangxiao.github.io/issues)  
-创建时间 2022 05 20 | 修改时间 2022 05 20
+创建时间 2022 05 20 | 修改时间 2022 06 02
 
 # **0006 - 散步拍照**
 
@@ -37,6 +36,6 @@
 ![24](img/24.jpg "img24")
 ![25](img/25.jpg "img25")
 ![26](img/26.jpg "img26")
-还有个视频等我以后再想办法传上来吧，GitHub不支持这么大的文件
+还有个视频，等我以后再想办法传上来吧，GitHub不支持在仓库里上传这么大的文件
 
 ## **以上 - The End.**

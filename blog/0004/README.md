@@ -1,10 +1,9 @@
 [主页](https://ganggangxiao.github.io/)
 [文章](https://ganggangxiao.github.io/list/)
 [关于](https://ganggangxiao.github.io/about/)
-[我的GitHub](https://github.com/ganggangxiao/)
-[本网站托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)
+[托管地址](https://github.com/ganggangxiao/ganggangxiao.github.io/)
 [评论](https://github.com/ganggangxiao/ganggangxiao.github.io/issues)  
-创建时间 2022 03 30 | 修改时间 2022 0430
+创建时间 2022 03 30 | 修改时间 2022 06 02
 
 # **0004 - C++学习 01 - const和指针**
 
@@ -19,17 +18,15 @@ int *const *ptr_d;          // ptr_d is a pointer to const pointer to int
 
 这里有一个规律，星号左边的标识符可以任意调换顺序，右边亦是这样，但是左右边不能乱换。
 
-所以int const\*和const int\*没有什么区别，但是后者更符合人类的书写习惯，后者更易于理解、便于维护，就根据自己喜好来吧，我自己写一般是后者。
+所以int const\*和const int\*没有什么区别，前者更易于理解，后者则更符合人类的书写习惯，就根据自己喜好来，但是一但选择一种代码风格就不要随意更改了。
 
-最常用的两种用法就是
+const跟指针最常用的两种用法就是
 ``` cpp
 int *const          // 指向int的const指针 (顶层const)
 int const *const    // 指向const int的const指针 (底层&顶层const)
 ``` 
 
-读C++ Primer时，const跟指针这块一直搞不懂，这种方法就可以有效地帮助你理解  
-希望这篇文章能帮到你  
-我只是个小白，理解不够透彻，表达不够严谨，如果文章中有错误，可以在本网页的托管地址提issue
+读C++ Primer时，const跟指针这块有点懵，这种方法就可以帮我们有效地理解。希望这篇文章能帮到你
 
 ## **以上 - The End.**
 
